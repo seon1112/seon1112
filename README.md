@@ -16,14 +16,10 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vosej2241)](https://solved.ac/vosej2241/)
 <hr>
-## Programmars
 
+### Programmars
 <details>
   <summary>⚡ Score: 1000</summary>
-  <details>
-    <summary>😄 Rank: 1위</summary>
-    <details>
-      <summary>🌱 Solved: 100</summary>
-    </details>
-  </details>
+  <summary>😄 Rank: 1위</summary>
+  <summary>🌱 Solved: 100</summary>
 </details>
