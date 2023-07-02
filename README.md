@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <hr>
 
 ### Programmars
-<details>
   <summary>⚡ Score: 1000</summary>
   <summary>😄 Rank: 1위</summary>
   <summary>🌱 Solved: 100</summary>
-</details>
