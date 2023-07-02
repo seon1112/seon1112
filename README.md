@@ -15,17 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vosej2241)](https://solved.ac/vosej2241/)
-<head>
-  <style>
-    .box {
-      background-color: #f5f5f5;
-      padding: 10px;
-      border-radius: 5px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      font-family: 'Arial', sans-serif;
-    }
-  </style>
-</head>
+
 <body>
 <div class="box">
 <h3>Programmars</h3>
