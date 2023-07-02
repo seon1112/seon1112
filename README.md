@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome👋
 
 <!--
 **seon1112/seon1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Rank : 1282
 ### Score : 1652
 ### Solved : 279
-
+<hr>
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
