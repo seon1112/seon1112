@@ -43,15 +43,6 @@ Here are some ideas to get you started:
   </style>
 </head>
 <body>
-  <h2>프로그래머스 정보</h2>
-
-  <div class="info-container">
-    <div class="info-item">
-      <img src="path/to/score-icon.png" alt="점수 아이콘">
-      <span class="info-text">
-</style>
-</head>
-<body>
 <h2>Programmars</h2>
 
 <div class="info-container">
