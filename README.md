@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vosej2241)](https://solved.ac/vosej2241/)
-
+<hr>
 <body>
-<div class="box">
+<div class="box" style=" border: 1px solid gray; padding: 10px; border-radius: 5px;">
 <h3>Programmars</h3>
 
 <div class="info-container">
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   </div>
   
   <div class="info-item">
-    <span class="info-text">🌱 Solve :   100</span>
+    <span class="info-text">🌱 Solved :   100</span>
   </div>
 </div>
 </div>
