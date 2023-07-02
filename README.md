@@ -16,24 +16,14 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vosej2241)](https://solved.ac/vosej2241/)
 <hr>
-<body>
-<div class="box" style=" border: 1px solid gray; padding: 10px; border-radius: 5px;">
-<h3>Programmars</h3>
+## Programmars
 
-<div class="info-container">
-  <div class="info-item">
-    <span class="info-text">⚡Score:   1000</span>
-  </div>
-  
-  <div class="info-item">
-    <span class="info-text">😄 Rank :   1위</span>
-  </div>
-  
-  <div class="info-item">
-    <span class="info-text">🌱 Solved :   100</span>
-  </div>
-</div>
-</div>
-</body>
-
-
+<details>
+  <summary>⚡ Score: 1000</summary>
+  <details>
+    <summary>😄 Rank: 1위</summary>
+    <details>
+      <summary>🌱 Solved: 100</summary>
+    </details>
+  </details>
+</details>
