@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Seon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyeoung Seon &show_icons=true&theme=radical)
+![Seon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon1112&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vosej2241)](https://solved.ac/vosej2241/)
 ## ⚡Programmers
 ### Rank : 1282
