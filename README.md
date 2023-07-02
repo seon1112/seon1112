@@ -15,21 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vosej2241)](https://solved.ac/vosej2241/)
+<head>
+  <style>
+    .box {
+      background-color: #f5f5f5;
+      padding: 10px;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      font-family: 'Arial', sans-serif;
+    }
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+    .box h3 {
+      color: #333;
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
 
+    .box span {
+      color: #666;
+      font-size: 16px;
+    }
+  </style>
+</head>
 <body>
-<h2>Programmars</h2>
+<div class="box">
+<h3>Programmars</h3>
 
 <div class="info-container">
   <div class="info-item">
@@ -43,6 +54,7 @@ Here are some ideas to get you started:
   <div class="info-item">
     <span class="info-text">🌱 Solve :   100</span>
   </div>
+</div>
 </div>
 </body>
 
