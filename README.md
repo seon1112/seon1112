@@ -24,18 +24,6 @@ Here are some ideas to get you started:
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
       font-family: 'Arial', sans-serif;
     }
-
-    .box h3 {
-      color: #333;
-      font-size: 20px;
-      font-weight: bold;
-      margin-bottom: 10px;
-    }
-
-    .box span {
-      color: #666;
-      font-size: 16px;
-    }
   </style>
 </head>
 <body>
