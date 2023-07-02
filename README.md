@@ -16,6 +16,18 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vosej2241)](https://solved.ac/vosej2241/)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 <body>
 <h2>Programmars</h2>
 
@@ -33,5 +45,5 @@ Here are some ideas to get you started:
   </div>
 </div>
 </body>
-![images](https://github.com/seon1112/seon1112/assets/130538529/ea62f71c-0e73-42de-bdfb-31df420a3a9e)
+
 
