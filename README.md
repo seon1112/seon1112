@@ -21,15 +21,17 @@ Here are some ideas to get you started:
 
 <div class="info-container">
   <div class="info-item">
-    <span class="info-text">⚡프로그래머스 점수:   1000</span>
+    <span class="info-text">⚡Score:   1000</span>
   </div>
   
   <div class="info-item">
-    <span class="info-text">😄 프로그래머스 순위:   1위</span>
+    <span class="info-text">😄 Rank :   1위</span>
   </div>
   
   <div class="info-item">
-    <span class="info-text">🌱 푼 문제 수:   100</span>
+    <span class="info-text">🌱 Solve :   100</span>
   </div>
 </div>
 </body>
+![images](https://github.com/seon1112/seon1112/assets/130538529/ea62f71c-0e73-42de-bdfb-31df420a3a9e)
+
