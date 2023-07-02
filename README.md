@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 
 ![Seon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vosej2241)](https://solved.ac/vosej2241/)
+# ⚡Programmers
+### Rank : 1282
+### Score : 1652
+### Solved : 279
+
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
