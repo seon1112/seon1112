@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Seon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seon1112&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vosej2241)](https://solved.ac/vosej2241/)
 
 ## ⚡Programmers [프로그래머스](https://programmers.co.kr/)
