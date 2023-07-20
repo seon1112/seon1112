@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   #### `score`    :    1652
   #### `solved`    :    279 
 
+## 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vosej2241)](https://solved.ac/vosej2241/)
 
 # 💪Skills
